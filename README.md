@@ -9,6 +9,10 @@ A Multi Use Asset Downloader For Roblox
 
 ## Installation
 ```git clone https://github.com/StiizzyCat/AssetTools```
+```cd AssetTools```
+```npm init```
+```npm i axios chalk@4.1.1 prompt-sync jsdom```
+```node . or node AssetTools.js```
 
 
 ## Note
