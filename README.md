@@ -14,7 +14,7 @@ A Multi Use Asset Downloader For Roblox
 git clone https://github.com/StiizzyCat/AssetTools
 cd AssetTools
 npm init
-npm i axios chalk@4.1.1 prompt-sync jsdom
+npm i axios chalk@4.1.1 prompt-sync jsdom images-downloader
 node . or node AssetTools.js
 ```
 
