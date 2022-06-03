@@ -1,31 +1,50 @@
-# AssetTools
-A Multi Use Asset Downloader For Roblox
 
-## Features
+# Asset Tools
+Asset Tools is a CLI tool for Managing and Downloading Roblox Assets
 
-+ Can get Tshirt/Shirt/Pants Templates
-+ Can get Decal Image IDS
-+ Is fast and simple
+- Convert AssetIDs to their imagids
+- Download t-shirt, shirt, pant and decal templates
+
+
+## Authors
+
+- [@StiizzyCat](https://github.com/StiizzyCat)
+
 
 ## Installation
 
-```bash
+Install my-project with npm
 
+```bash
 git clone https://github.com/StiizzyCat/AssetTools
 cd AssetTools
 npm init
 npm i axios chalk@4.1.1 prompt-sync jsdom images-downloader
 node . or node AssetTools.js
 ```
+    
+## Roadmap
 
-## Note
-+ asset-tools does not support the following assets!
+- Add Audio Downloading Support
 
-+ Audios
-
-+ Models
-
-+ These might be supported in a later Update!!
+- Add Webhook Support
 
 
-## (C) Coded By StiizzyCat 2022
+## Screenshots
+![App Screenshot](https://i.ibb.co/XZZZSL8/Picture.png)
+
+![App Screenshot](https://i.ibb.co/1GX0sqC/ree-Reee.png)
+
+![App Screenshot](https://i.ibb.co/jwcYgqR/saved.png)
+
+
+## Demo
+
+![App Screenshot](https://i.ibb.co/7r24vhv/ezgif-4-1282c1da8e.gif)
+
+
+
+## Questions
+
+For Questions, email StiiizzyCat@proton.me or make a issue Request.
+
