@@ -39,8 +39,8 @@ node . or node AssetTools.js
 
 ![App Screenshot](https://i.ibb.co/7r24vhv/ezgif-4-1282c1da8e.gif)
 
+![Screenshot 2022-06-04 000036](https://user-images.githubusercontent.com/90114741/171988550-e5a81c78-1cff-48eb-8f70-cc00efbf062f.png)
 
-![https://i.ibb.co/0Jm21kY/ezgif-1-9e36e39a71.gif](https://i.ibb.co/pXbwNg4/ezgif-1-9e36e39a71.gif)
 
 ## Questions
 
