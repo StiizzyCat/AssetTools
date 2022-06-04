@@ -11,7 +11,6 @@ const chalk = require('chalk');
 const {
     theme
 } = require('./theme')
-var color = CONFIG.theme[0];
 /**
  * @author: Stiizzy Cat#0001
  * @description:  Stiizzy Cats Menu System, using only Prompt-Sync and Switch Statements
@@ -23,7 +22,7 @@ var DownloadIMG = true;
 
 
 function menu() {
-    theme(color)
+    theme(CONFIG.theme[0])
 
     console.log(chalk.magentaBright('1: Download An Asset!'))
     console.log(chalk.magentaBright('2: Set CLI Theme!'))
