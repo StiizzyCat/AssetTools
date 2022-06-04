@@ -41,6 +41,7 @@ node . or node AssetTools.js
 
 ![Screenshot 2022-06-04 000036](https://user-images.githubusercontent.com/90114741/171988550-e5a81c78-1cff-48eb-8f70-cc00efbf062f.png)
 
+![Code_l71NfhYizM](https://user-images.githubusercontent.com/90114741/171988771-cc4c715e-09df-4d5c-8dd8-0dfb67f539ce.gif)
 
 ## Questions
 
