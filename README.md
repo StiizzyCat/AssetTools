@@ -24,8 +24,6 @@ node . or node AssetTools.js
 ## Roadmap
 
 - Add Audio Downloading Support
-- Add Theme Support
-- Add Terminal Kit
 - Add Webhook Support
 
 
