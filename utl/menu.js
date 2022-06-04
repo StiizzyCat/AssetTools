@@ -22,6 +22,7 @@ var DownloadIMG = true;
 
 
 function menu() {
+    console.clear()
     theme(CONFIG.theme[0])
 
     console.log(chalk.magentaBright('1: Download An Asset!'))
@@ -29,8 +30,7 @@ function menu() {
     console.log(chalk.magentaBright('3: Exit!'))
 
     var choices = prompt(chalk.magentaBright('[+] ') + chalk.blueBright('Choose a Selection: '));
-    switch (choices) {
-        case '1':
+    if(choices === "1"){
             // More Prompts :<
             var assetid = prompt(chalk.magentaBright('[+] ') + chalk.blueBright('Enter the AssetID: '));
             // More Prompts :<
@@ -75,7 +75,7 @@ function menu() {
             } else {
 
             }
-            case '2':
+        } else if(choices === "2"){
                 console.clear()
                 let file = editJsonFile(`${__dirname}/config.json`)
                 console.log(chalk.magentaBright('Themes'))
@@ -126,9 +126,10 @@ function menu() {
                         process.exit()
                 }
 
-                case '3':
+            } else if(choices === "3"){
+
                     process.exit()
-                default:
+            } else {
                     console.log()
                     console.log(chalk.redBright("Invalid Choice!"))
                     setTimeout(() => {
