@@ -1,6 +1,6 @@
 {
   "name": "assettools",
-  "version": "1.0.0",
+  "version": "1.3.1",
   "description": "a CLI tool for Managing and Downloading Roblox Assets",
   "main": "AssetTools.js",
   "scripts": {

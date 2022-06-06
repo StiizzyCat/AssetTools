@@ -17,7 +17,7 @@ function theme(color) {
         console.log(chalk.redBright("   ▒   ▒▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ░ ░  ░   ░           ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░░ ░▒  ░ ░   "))
         console.log(chalk.redBright("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.redBright("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
 
     } else if (color === "blue") { // Sky color
         console.log(chalk.redBright("  ▄▄        ██████   ██████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ▒█████   ▒█████   ██▓      ██████    "))
@@ -29,7 +29,7 @@ function theme(color) {
         console.log(chalk.redBright("   ▒   ▒▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ░ ░  ░   ░           ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░░ ░▒  ░ ░   "))
         console.log(chalk.redBright("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.redBright("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
 
     } else if (color === "purple") { // the drug lovers :3
         console.log(chalk.hex('#800080')("  ▄▄        ██████   ██████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ▒█████   ▒█████   ██▓      ██████    "))
@@ -42,7 +42,7 @@ function theme(color) {
         console.log(chalk.hex('#800080')("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.hex('#800080')("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
 
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
 
 
     } else if (color === "usa") { // I live in the usa
@@ -56,7 +56,7 @@ function theme(color) {
         console.log(chalk.whiteBright("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.whiteBright("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
 
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
 
     } else if (color === "ukraine") { // Support Ukraine
         console.log(chalk.blueBright("  ▄▄        ██████   ██████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ▒█████   ▒█████   ██▓      ██████    "))
@@ -69,7 +69,7 @@ function theme(color) {
         console.log(chalk.yellowBright("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.yellowBright("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
         console.log(chalk.yellowBright('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤСлава Україні! Слава Україні! Слава Україні! ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
 
     } else if (color === "lgbt") {
         console.log(chalk.hex('#ff0000')("  ▄▄        ██████   ██████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ▒█████   ▒█████   ██▓      ██████    "))
@@ -81,7 +81,7 @@ function theme(color) {
         console.log(chalk.hex('#800080')("   ▒   ▒▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ░ ░  ░   ░           ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░░ ░▒  ░ ░   "))
         console.log(chalk.hex('#800080')("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     "))
         console.log(chalk.hex('#800080')("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     "))
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
     } else {
         console.log("  ▄▄        ██████   ██████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ▒█████   ▒█████   ██▓      ██████    ")
         console.log(" ▒████▄    ▒██    ▒ ▒██    ▒ ▓█   ▀▓  ██▒ ▓▒   ▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒    ▒██    ▒    ")
@@ -92,7 +92,7 @@ function theme(color) {
         console.log("   ▒   ▒▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ░ ░  ░   ░           ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░░ ░▒  ░ ░   ")
         console.log("   ░   ▒   ░  ░  ░  ░  ░  ░     ░    ░           ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   ░  ░  ░     ")
         console.log("       ░  ░      ░        ░     ░  ░                        ░ ░      ░ ░      ░  ░      ░     ")
-        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.0 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
+        console.log(chalk.bgMagenta('ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤV1.3.1 Coded By: https://github.com/StiizzyCatㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'))
     }
 }
 
