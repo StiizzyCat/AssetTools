@@ -4,6 +4,7 @@ Asset Tools is a CLI tool for Managing and Downloading Roblox Assets
 
 - Convert AssetIDs to their imagids
 - Download t-shirt, shirt, pant and decal templates
+- Have nice terminal themes
 
 
 ## Authors
