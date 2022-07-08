@@ -18,6 +18,7 @@ Asset Tools is a CLI tool for Managing and Downloading Roblox Assets
 git clone https://github.com/StiizzyCat/AssetTools
 cd AssetTools
 npm i
+npm i axios jsdom chalk@4.1.1
 npm run start
 ```
     
